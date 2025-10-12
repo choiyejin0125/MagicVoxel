@@ -342,7 +342,7 @@ public static class ARAVRInput
 }
 
 
-// ARAVRInput Ŭ�������� ����� �ڷ�ƾ ��ü
+// ARAVRInput Ŭ�������� ����� �ڷ�ƾ ��üd
 class CoroutineInstance : MonoBehaviour
 {
     public static CoroutineInstance coroutineInstance = null;
